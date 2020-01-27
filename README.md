@@ -1,2 +1,2 @@
 # test
-Esta es la peor pagina que has visto
+Esta es la peor página que has visto
